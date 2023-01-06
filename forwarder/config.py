@@ -5,7 +5,7 @@ class Development(Config):
     OWNER_ID = 2111357106  # Your user id
  
     FROM_CHATS = [-1001473494312]  # List of chat id's to forward messages from.
-    TO_CHATS = [-1001155176622]  # List of chat id's to forward messages to.
+    TO_CHATS = [-1001735866288]  # List of chat id's to forward messages to.
 
     REMOVE_TAG = True
     WORKERS = 4
